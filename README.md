@@ -14,4 +14,5 @@ ICANN, que significa Corporación de Internet para la Asignación de Nombres y N
 Un mockup es un prototipo o representación visual estática de un diseño o concepto, utilizado en diversas áreas como el diseño gráfico, diseño web y desarrollo de productos. Su propósito es mostrar cómo se verá un diseño finalizado antes de su implementación, permitiendo a los diseñadores y clientes visualizar el producto sin necesidad de invertir mucho tiempo o recursos en su desarrollo. Además, los mockups son herramientas importantes en el proceso de diseño y marketing, ya que ayudan a comunicar ideas de manera efectiva.
 7. ⚫ **COMPONENTE**
 es un módulo de software independiente y reutilizable que encapsula una funcionalidad específica, actuando como un bloque de construcción para sistemas más grandes
-8.😂
+8. 🙌**Finanzas descentralizadas (DeFi)**
+DeFi hace referencia a un conjunto de servicios financieros que funcionan de manera descentralizada, sin intermediarios tradicionales como bancos o instituciones financieras. Utiliza blockchain y contratos inteligentes para permitir préstamos, intercambios y más.
